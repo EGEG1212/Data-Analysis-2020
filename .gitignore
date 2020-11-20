@@ -4,6 +4,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 samples/
+roadapikey.txt
+kakaomapkey.txt
+openweatherkey.txt
 
 # IPython
 profile_default/
