@@ -12,7 +12,7 @@ def index():
     return folium_map._repr_html_()
 
 @app.route('/marker')  
-def markerr():
+def marker():
     df = pd.read_csv('address3.csv')
     df['icon'] = ['map-marker', 'cloud', 'gift', 'info-sign', 'ok-circle']
     color_dict = {'Clear': 'blue', 'Snow': 'white', 'Rain': 'gray', 'Extreme': 'red', 'Clouds': 'orange', 'Mist': 'green'}
