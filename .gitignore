@@ -8,6 +8,7 @@ roadapikey.txt
 kakaomapkey.txt
 openweatherkey.txt
 chromedriver.exe
+data/
 
 # IPython
 profile_default/
