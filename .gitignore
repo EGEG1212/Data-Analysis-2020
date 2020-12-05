@@ -10,6 +10,7 @@ openweatherkey.txt
 gov_data_api_key.txt
 chromedriver.exe
 data/
+ex.ipynb
 
 # IPython
 profile_default/
