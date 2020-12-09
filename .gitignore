@@ -9,6 +9,7 @@ kakaomapkey.txt
 openweatherkey.txt
 gov_data_api_key.txt
 chromedriver.exe
+geckodriver.exe
 data/
 ex.ipynb
 
